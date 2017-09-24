@@ -1,3 +1,9 @@
 body {
     background-color: #333333;
 }
+
+/**** MEDIA QUERY - 1080 ****/
+
+@media (max-width: 1080px) {
+    background-color: #007a50;
+}
