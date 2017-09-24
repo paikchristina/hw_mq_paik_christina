@@ -7,3 +7,9 @@ body {
 @media (max-width: 1080px) {
     background-color: #007a50;
 }
+
+/**** MEDIA QUERY - 550 ****/
+
+@media (max-width: 550px) {
+    background-color: #807300;
+}
