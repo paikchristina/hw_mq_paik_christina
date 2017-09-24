@@ -10,6 +10,12 @@ body {
 
 /**** MEDIA QUERY - 999 ****/
 
-@media (min-width:999px) {
+@media (min-width: 999px) {
     background-color: #4c00a3;
+}
+
+/**** MEDIA QUERY - 1280 ****/
+
+@media (min-width: 1280px) {
+    background-color: #001b7a;
 }
