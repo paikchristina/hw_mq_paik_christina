@@ -7,3 +7,9 @@ body {
 @media (min-width: 675px) {
     background-color: #a3007a;
 }
+
+/**** MEDIA QUERY - 999 ****/
+
+@media (min-width:999px) {
+    background-color: #4c00a3;
+}
