@@ -13,3 +13,9 @@ body {
 @media (max-width: 550px) {
     background-color: #807300;
 }
+
+/**** MEDIA QUERY - 400 ****/
+
+@media (max-width: 400px) {
+    background-color: #802200;
+}
