@@ -1,3 +1,9 @@
 body {
     background-color: #333;
 }
+
+/*** MEDIA QUERY - 675 ***/
+
+@media (min-width: 675px) {
+    background-color: #a3007a;
+}
